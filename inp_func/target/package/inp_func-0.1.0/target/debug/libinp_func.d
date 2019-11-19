@@ -1,0 +1,1 @@
+C:\Users\Zulfi\Desktop\New\ crate\inp_lib\inp_func\target\package\inp_func-0.1.0\target\debug\libinp_func.rlib: C:\Users\Zulfi\Desktop\New\ crate\inp_lib\inp_func\target\package\inp_func-0.1.0\src\lib.rs

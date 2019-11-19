@@ -1,11 +1,9 @@
 [package]
 name = "inp_func"
-version = "0.1.1"
+version = "0.1.0"
 authors = ["Saim Irfan <samfan95@gmail.com>"]
 edition = "2018"
-description = "This is my first crate so go easy on me
-use input
-input::i8() = To input i8 value in a var"
+description = "This is my first crate so go easy on me"
 license = "MIT"
 repository = "https://github.com/Sammy275/inp_lib"
 
