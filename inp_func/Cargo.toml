@@ -1,0 +1,12 @@
+[package]
+name = "inp_func"
+version = "0.1.0"
+authors = ["Saim Irfan <samfan95@gmail.com>"]
+edition = "2018"
+description = "This is my first crate so go easy on me"
+license = "MIT"
+repository = "https://github.com/Sammy275/inp_lib"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
